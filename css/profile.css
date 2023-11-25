@@ -1,0 +1,26 @@
+.p-1{
+    display: none;
+}
+.pa-2{
+    display: block;
+    text-align: center;
+    width: 200px;
+    background: #e3362c;
+    color:white;
+    padding: 12px;
+    margin: 10px auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.pa-3{
+    color: green;
+    letter-spacing: 3px;
+}
+.pa-4{
+    font-weight: bold;
+    float: right;
+}
+.pa-5{
+    text-align: center;
+    color: green;
+}

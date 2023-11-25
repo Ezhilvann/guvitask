@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&display=swap');
+
+.input-group-text {
+    width: 25%; 
+    min-width: 120px;
+    text-align: center;
+    font-size: 16px;
+   background-color: whitesmoke;
+   letter-spacing: 2px;
+}
+.s-1{
+    font-family: 'Cantarell', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+body{
+    background-color:aliceblue;
+
+}
+.s-1:focus {
+    outline: none;
+}
+.s-2{
+    color: green;
+    letter-spacing: 3px;
+}
+.s-3{
+    letter-spacing: 3px;
+    color: black;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    border-radius: 0%;
+    padding: 10px 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.s-3:hover{
+    color: green;
+    text-decoration: none;
+    border-bottom: 2px solid green;
+    outline: none;
+    border-radius: 0%;
+}
+.s-4{
+    color: blue;
+    float: right;
+    margin-top: 5px;
+}
